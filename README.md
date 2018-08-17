@@ -1,9 +1,9 @@
-## Escuela Colombiana de Ingeniería Julio Garavito
+## Escuela Colombiana de IngenierÃ­a Julio Garavito
 
 ### Jonathan Prieto
 ### Arquitecturas Empresariales
 
-### Taller de introducci¢n a Maven y Git
+### Taller de introducciÂ¢n a Maven y Git
 
 ---
 
@@ -17,4 +17,4 @@
 
 
 
-Se adjunta el archivo ClassDiagram.asta e IntroductionMvnAndGit.pdf con el modelo y descripción de la aplicación.
+Se adjunta el archivo ClassDiagram.asta e IntroductionMvnAndGit.pdf con el modelo y descripciÃ³n de la aplicaciÃ³n.
