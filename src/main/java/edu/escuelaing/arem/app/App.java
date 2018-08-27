@@ -18,11 +18,11 @@ public class App {
         String line;
         FileReader fr = new FileReader(archivo);
         BufferedReader br = new BufferedReader(fr);
-        while((line=br.readLine())!=null){
-            numberList.addNode(Integer.parseInt(line)); //Agregar nodos a la LinkedList.
+        while ((line = br.readLine()) != null) {
+            numberList.addNode(Float.parseFloat(line)); //Agregar nodos a la LinkedList.
         }
         br.close();
         statistical = new Estadistico(numberList);
-        System.out.println("Mean = "+statistical.mean()+"\nStandard deviation = "+statistical.standardDeviation());
+        System.out.println("Mean = " + statistical.mean() + "\nStandard deviation = " + statistical.standardDeviation());
     }
 }
